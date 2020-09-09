@@ -1,0 +1,6 @@
+a.  base: process.env.BASE_URL
+b.  new Vue({
+    router,
+    render: h => h(App)
+    }).$mount('#app')
+c. sessionStorage 应用
